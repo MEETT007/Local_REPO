@@ -1,1 +1,1 @@
-console.count
+alert("hello world")
